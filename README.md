@@ -17,7 +17,7 @@ A comprehensive gym management application with membership management, workout t
 
 ### AWS Projects
 - Created and managed AWS resources like S3 Buckets and EC2 Instances.
-- Automated AWS infrastructure using Terraform.
+- Automated AWS infrastructure using Terraform. 
 
 ### Ansible Projects
 - Managed configurations and deployed applications using Ansible.
